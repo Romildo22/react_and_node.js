@@ -1,0 +1,14 @@
+# dependencies
+client/node_modules
+server/node_modules
+
+package-lock.json
+package.json
+
+#subpastas
+client/package-lock.json
+client/package.json
+client/README.md
+
+server/package-lock.json
+server/package.json
